@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sanjana Manjunath</h1>
 <h3 align="center">A passionate girl</h3>
+<img align="right" alt="Student" width="400" src="https://www.myherodesign.com/wp-content/uploads/2016/06/Hispanic_Female_Suspicious-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manjunathsanjana&label=Profile%20views&color=0e75b6&style=flat" alt="manjunathsanjana" /> </p>
 
