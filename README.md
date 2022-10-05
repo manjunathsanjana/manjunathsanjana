@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sanjana Manjunath</h1>
 <h3 align="center">A passionate girl</h3>
-<img align="right" alt="Student" width="400" src="https://www.myherodesign.com/wp-content/uploads/2016/06/Hispanic_Female_Suspicious-1.gif">
+<img align="right" width="400" src="https://d2tnst4joh66uk.cloudfront.net/wp-content/uploads/2015/08/girl1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manjunathsanjana&label=Profile%20views&color=0e75b6&style=flat" alt="manjunathsanjana" /> </p>
 
@@ -8,7 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/sanjj2001" target="blank"><img src="https://img.shields.io/twitter/follow/sanjj2001?logo=twitter&style=for-the-badge" alt="sanjj2001" /></a> </p>
 
+- 🔭 I’m currently working on **PM**
+
+- 🌱 I’m currently learning **PM**
+
 - 📫 How to reach me **sanjanamanjunath01@gmail.com**
+
+- ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
