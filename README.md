@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently a STUDENT 
+- 🌱 I’m currently learning Product Management
+- 👯 I’m looking to collaborate on Youtube
+- 💬 Ask me about My Student Journey
+- 📫 How to reach me: Twitter:@sanjj2001 LinkedIn:www.linkedin.com/in/sanjana-manjunath-3b9ab4217 Email: sanjanamanjunath01@gmail.com
+- 😄 Pronouns: She/Her
+
 <!--
 **manjunathsanjana/manjunathsanjana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
