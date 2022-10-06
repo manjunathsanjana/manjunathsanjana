@@ -1,12 +1,16 @@
 <h1 align="center">Hi 👋, I'm Sanjana Manjunath</h1>
 <h3 align="center">A passionate girl</h3>
-<img align="right" width="400" src="https://d2tnst4joh66uk.cloudfront.net/wp-content/uploads/2015/08/girl1.gif">
+
+![png_20220924_195202_0000](https://user-images.githubusercontent.com/89706335/194362100-e1115ae1-97b0-48ed-ad40-49775a612ce5.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manjunathsanjana&label=Profile%20views&color=0e75b6&style=flat" alt="manjunathsanjana" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manjunathsanjana" alt="manjunathsanjana" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/sanjj2001" target="blank"><img src="https://img.shields.io/twitter/follow/sanjj2001?logo=twitter&style=for-the-badge" alt="sanjj2001" /></a> </p>
+
+
+
 
 - 🔭 I’m currently working on **PM**
 
