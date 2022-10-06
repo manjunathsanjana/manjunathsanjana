@@ -23,10 +23,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sanjj2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanjj2001" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/sanjana-manjunath-3b9ab4217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjana manjunath" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sanjana manjunath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sanjana manjunath" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sanjana manjunath" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sanjana manjunath" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sanjana manjunath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sanjana manjunath" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sanjana-manjunath-3b9ab4217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjana manjunath" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCm_iuICVW6mNf0B0lpyc83g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sanjana manjunath" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
