@@ -12,13 +12,13 @@
 
 
 
-- 🔭 I’m currently working on **PM**
+- 🔭 I’m currently exploring **Open source and Community building**
 
-- 🌱 I’m currently learning **PM**
+- 🌱 I’m currently learning about**Product management**
 
 - 📫 How to reach me **sanjanamanjunath01@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ **Ability to create impact**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
