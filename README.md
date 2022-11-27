@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently exploring **Open source and Community building**
 
-- 🌱 I’m currently learning about**Product management**
+- 🌱 I’m currently learning about **Product management**
 
 - 📫 How to reach me **sanjanamanjunath01@gmail.com**
 
