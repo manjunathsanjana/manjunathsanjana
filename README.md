@@ -10,13 +10,7 @@
 <p align="left"> <a href="https://twitter.com/sanjj2001" target="blank"><img src="https://img.shields.io/twitter/follow/sanjj2001?logo=twitter&style=for-the-badge" alt="sanjj2001" /></a> </p>
 
 
-
-
-- 🔭 I’m currently exploring **web3 and Community building**
-
 - 🌱 I’m currently learning about **Product management**
-
-- 📫 How to reach me **sanjanamanjunath01@gmail.com**
 
 - ⚡ **Ability to create impact**
 
