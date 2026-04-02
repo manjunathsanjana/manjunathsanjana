@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sanjana Manjunath</h1>
-<h3 align="center">seasoned/experienced product manager loves problem solving</h3>
+<h1 align="center">Hi 👋, this is Sanjana Manjunath</h1>
+<h3 align="center">seasoned/experienced product manager who loves problem solving</h3>
 
 ![png_20220924_195202_0000](https://user-images.githubusercontent.com/89706335/194362100-e1115ae1-97b0-48ed-ad40-49775a612ce5.png)
 
